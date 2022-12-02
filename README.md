@@ -1,8 +1,1 @@
-## 인공지능 모델 전용 서버
-
-## AI Model
-|Model Idx|Name            |
-|---------|----------------|
-|0        |F.I.            |
-|1        |5.E.            |
-|2        |F.M.M.H         |
+AI Model Server
